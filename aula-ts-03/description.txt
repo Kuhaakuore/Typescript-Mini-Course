@@ -1,0 +1,9 @@
+Exercício: Tipagem para todos os lados
+
+📝 Enunciado
+
+Podemos aplicar a tipagem em vários locais diferentes da aplicação.
+
+Mas nem sempre a tipagem explícita é necessária por conta da inferência de tipos do TS.
+
+Refatore o código TS a seguir colocando os tipos onde julgar necessário.

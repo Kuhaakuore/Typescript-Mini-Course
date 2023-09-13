@@ -1,0 +1,9 @@
+ Exercício: Tipagem para todos os lados - Parte 2
+
+Tipar é divertido (há controvérsias) e torna o código mais seguro, no entanto, nem sempre é tão fácil de fazer.
+
+A função prompt() do navegador pode retornar string | null.
+
+Tipe o código a seguir e faça as validações e conversões necessárias para que o código seja executado somente se números forem usados.
+
+Faça quaisquer conversões e alterações necessárias para garantir que o resultado final seja um número. Se não for o caso, exiba uma mensagem dizendo que não é possível executar com tal entrada.

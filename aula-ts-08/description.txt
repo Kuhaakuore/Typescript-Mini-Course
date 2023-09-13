@@ -1,0 +1,5 @@
+ Exercício: Objetos tipados - Parte 2
+
+Podemos tipar objetos de uma forma relativamente simples, mas que acaba gerando um custo muito alto de manutenção no médio-longo prazo.
+
+Refatore o código abaixo para usar type.
